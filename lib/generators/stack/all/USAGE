@@ -1,0 +1,19 @@
+Description:
+    Creates a default Stack app
+
+Example:
+    yeoman init stack
+
+    This will create:
+        Gruntfile.js
+        package.json
+        
+        client/index.html
+        client/js/your-app-name-here.js
+        client/js/controllers/main.js
+        client/js/vendor/angular.js
+        client/css/main.css
+        client/views/main.html
+
+        test/lib/angular-mocks.js
+        test/spec/controllers/main.js

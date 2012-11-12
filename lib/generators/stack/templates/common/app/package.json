@@ -1,0 +1,11 @@
+{
+  "author": "David Bochenski",
+  "name": "Stack",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.0.1",
+    "jade": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {}
+}

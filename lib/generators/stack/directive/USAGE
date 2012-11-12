@@ -1,0 +1,8 @@
+Description:
+    Creates a new Angular directive
+
+Example:
+    yeoman init stack:directive thing [--coffee]
+
+    This will create:
+        client/js/directives/thing.js
